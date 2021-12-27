@@ -44,7 +44,7 @@ example ::
 ```
 ./server 8565
  ```
- ![Server](https://github.tamu.edu/souravdokania/ECEN602_Team07/blob/master/MP1/Server.png)
+ ![Server](Server.png)
 
 
 ### Now start the clients using
@@ -55,7 +55,7 @@ example ::
 ```
 ./client 127.0.0.1 8565
  ```
-![Client](https://github.tamu.edu/souravdokania/ECEN602_Team07/blob/master/MP1/client.png)
+![Client](client.png)
 
 Note: When using the same computer the IP address of 127.0.0.1 should be used
 
